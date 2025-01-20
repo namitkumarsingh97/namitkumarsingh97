@@ -9,10 +9,9 @@
 
 Here are some ideas to get you started:
 
-- I previously intern at Newton School.
-- 🌱 Currently working on improving full stack skills
-- 💬 Ask me about React.js / Javascript / Node.js / Express.js
-- 📫 How to reach me: [Twitter - @singh*namit*](https://twitter.com/singh_namit_) , [Instagram - @singh_namitkumar]
+- 🌱 Currently working on as a full stack developer
+- 💬 Ask me about React.js / Javascript / Node.js / Express.js / AWS S3
+- 📫 How to reach me: [Twitter - @singh*namit*](https://twitter.com/singh_namit_) , [Instagram - @singh_namitkumar](https://www.instagram.com/singh_namitkumar/)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=namitkumarsingh97&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
@@ -31,6 +30,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 [![Github](https://img.shields.io/github/followers/namitkumarsingh97?label=Follow&style=social)](https://github.com/namitkumarsingh97)
 

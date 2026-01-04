@@ -9,12 +9,11 @@
 
 ### About Me:
 
-- 💻 Full Stack Developer with hands-on experience in MERN & Next.js
-- 🧠 Strong focus on clean architecture, scalable APIs, and system design
-- 🌱 Currently leveling up in DSA, Low-Level Design (LLD), and High-Level Design (HLD) (FAANG-focused)
-- 🔁 Previously interned at Newton School
-- 🛠️ Love building real-world products, not just demo apps
-- 💬 Ask me about React, Next.js, Node.js, Express, MongoDB, REST APIs
+- 💻 **Full Stack Developer** specializing in **MERN & Next.js**
+- 🧠 Passionate about **clean architecture, scalable APIs & system design**
+- 🌱 Currently sharpening **DSA, LLD & HLD**
+- 🛠️ I enjoy building **real-world, production-grade products**
+- 💬 Happy to talk about **React, Next.js, Node.js, Express, MongoDB & REST APIs**
 
 ### Languages and Tools:
 
@@ -38,8 +37,6 @@
 ### GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats-tau-lake-71.vercel.app/api?username=namitkumarsingh97&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-stats-tau-lake-71.vercel.app/?user=namitkumarsingh97&theme=dark)
 
 ![Top Languages](https://github-readme-stats-tau-lake-71.vercel.app/api/top-langs/?username=namitkumarsingh97&layout=compact&theme=dark)
 

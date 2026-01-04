@@ -47,5 +47,9 @@
 <p align="center"><img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"> </p>
 
 <p align="center">
-[![Github](https://img.shields.io/github/followers/namitkumarsingh97?label=Follow&style=social)](https://github.com/namitkumarsingh97) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=74529623.74529623)
+  <a href="https://github.com/namitkumarsingh97">
+    <img src="https://img.shields.io/github/followers/namitkumarsingh97?label=Follow&style=social" alt="Follow on GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=74529623.74529623" alt="Visitor Badge"/>
 </p>

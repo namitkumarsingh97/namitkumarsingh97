@@ -36,9 +36,9 @@
 
 ### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-tau-lake-71.vercel.app/api?username=namitkumarsingh97&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats-tau-lake-71.vercel.app/api/top-langs/?username=namitkumarsingh97&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats-tau-lake-71.vercel.app/api?username=namitkumarsingh97&show_icons=true&theme=dark)
 
 ### Reach Me:
 
